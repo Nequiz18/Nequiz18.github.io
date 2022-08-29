@@ -1,1 +1,1 @@
-# Nequiz18.github.io
+# nequiz18.github.io
